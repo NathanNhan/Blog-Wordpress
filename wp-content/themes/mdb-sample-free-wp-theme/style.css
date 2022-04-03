@@ -1,0 +1,24 @@
+/*
+Theme Name: MDB Sample Theme
+Theme URI: https://mdbootstrap.com
+Description: Sample theme with MDB 5 Free
+Version: 1.0.0
+Author: MDBootstrap.com
+Author URI: https://mdbootstrap.com
+*/
+
+ul.post-categories {
+    text-decoration: none;
+    list-style: none;
+    /* color: black; */
+    padding: 0;
+    margin-left: 10px;
+}
+
+ul.post-categories a {
+    color: black;
+}
+.breadcum {
+    display: flex;
+    margin-left: 20px;
+}
